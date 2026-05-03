@@ -34,7 +34,6 @@ This research proposes a modular, scalable system for autonomous multi-robot sea
 | Multi-threading / Async I/O    | Real-time data handling and synchronization      |
 | A* / Dijkstra / RRT            | Path planning and obstacle avoidance algorithms  |
 | Gazebo / RViz                  | Simulation and visualization                     |
-| Git                            | Version control and collaboration                |
 
 ## 🧪 System Architecture
 
